@@ -1,0 +1,1 @@
+openssl dgst -sha256 -sign private-key.pem -out message.sha256 message.txt
