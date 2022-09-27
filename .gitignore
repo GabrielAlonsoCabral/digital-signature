@@ -1,3 +1,5 @@
 private-key.pem
 public-key.pem
 message.sha256
+message.encrypted
+message.decrypted
