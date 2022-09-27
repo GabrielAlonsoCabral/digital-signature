@@ -24,4 +24,10 @@ $ zsh scripts/sign.file.zsh
 
 # Verify file
 $ zsh scripts/verify.file.zsh
+
+# Encrypt file
+$ zsh scripts/encrypt.zsh
+
+# Decrypt file
+$ zsh scripts/encrypt.zsh
 ```
