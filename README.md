@@ -1,6 +1,9 @@
 # Digital Signature
   Digital Signature using OpenSSL with algorithm SHA256 and RSA.
-
+  
+  
+  Developed by: <a href="https://www.github.com/gabrielAlonsoCabral">@GabrielAlonsoCabral</a>  
+  <br/>
 
 ## Installation
 
